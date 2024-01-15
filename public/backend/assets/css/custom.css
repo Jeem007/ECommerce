@@ -1,0 +1,42 @@
+.action-bar ul{
+    padding: 0;
+}
+
+.action-bar ul li{
+    list-style: none;
+    display: inline;
+    margin: 0 5px;
+}
+.action-bar ul li .lni-pencil-alt{
+    color: green;
+}
+
+.action-bar ul li .lni-trash{
+    color: red;
+}
+.auth-error{
+    padding: 0;
+    margin: 0;
+}
+.auth-error li{
+    color: #880000;
+    list-style: none;
+    padding: 20px;
+}
+.order-details-box {
+    background: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #eee;
+    min-height: 255px;
+}
+.order-details-box .middle{
+   padding: 50px;
+}
+.order-details-box h3 {
+  font-size: 18px;
+  text-align: center;
+}
+.order-details-box .od {
+    text-align: center;
+}
